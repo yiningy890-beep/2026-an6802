@@ -1,4 +1,4 @@
 flask
 gunicorn
-sckit-learn
+scikit-learn
 joblib
